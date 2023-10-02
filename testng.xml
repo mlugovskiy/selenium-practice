@@ -7,12 +7,12 @@
         <classes>
             <class name="SendContactUsFormTests"/>
             <class name="PurchaseTests">
-                <parameter name="username" value="mikhailtester123@gmail.com"/>
-                <parameter name="password" value="wQ6jxCXFUmLEf$8"/>
+                <parameter name="username" value=""/>
+                <parameter name="password" value=""/>
             </class>
             <class name="SignInTests">
-                <parameter name="username" value="mikhailtester123@gmail.com"/>
-                <parameter name="password" value="wQ6jxCXFUmLEf$8"/>
+                <parameter name="username" value=""/>
+                <parameter name="password" value=""/>
             </class>
             <class name="EmptyCartTest"/>
         </classes>
@@ -22,12 +22,12 @@
         <classes>
             <class name="SendContactUsFormTests"/>
             <class name="PurchaseTests">
-                <parameter name="username" value="mikhail.testuser@yandex.ru"/>
-                <parameter name="password" value="qadfchgVHJhbhvuyVFYy8876&amp;5766hbb"/>
+                <parameter name="username" value=""/>
+                <parameter name="password" value=""/>
             </class>
             <class name="SignInTests">
-                <parameter name="username" value="mikhail.testuser@yandex.ru"/>
-                <parameter name="password" value="qadfchgVHJhbhvuyVFYy8876&amp;5766hbb"/>
+                <parameter name="username" value=""/>
+                <parameter name="password" value=""/>
             </class>
             <class name="EmptyCartTest"/>
         </classes>
